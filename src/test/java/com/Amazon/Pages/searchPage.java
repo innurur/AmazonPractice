@@ -23,4 +23,6 @@ public class searchPage {
 
     @FindBy(className = "a-section a-spacing-small a-spacing-top-small")
     public WebElement result;
+
+  //  @FindBy()
 }
